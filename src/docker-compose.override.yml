@@ -150,5 +150,5 @@ services:
       - basket.api
       - ordering.api
     ports:
-      - "8006:80"
+      - "8005:80"
 
